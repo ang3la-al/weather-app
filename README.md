@@ -1,0 +1,5 @@
+- Used Java Swing for building the graphical user interface (GUI).
+- Experimented with external location APIs and JSON files to fetch weather and location data.
+- Implemented error handling to manage null API responses, invalid user inputs, and invalid file paths.
+- Conducted iterative testing to ensure functionality met app requirements.
+- Used Object-Oriented Programming (OOP) principles for code organization and modularity.
